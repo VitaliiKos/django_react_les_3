@@ -1,0 +1,13 @@
+.parks {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.parks_form{
+    width: 95%;
+    background: #c9c3c3;
+    border-radius: 25px;
+    padding: 10px;
+    border: 2px solid rgba(79, 77, 77, 0.96);
+
+}
